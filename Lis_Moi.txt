@@ -1,0 +1,5 @@
+La page principale sur laquelle il faut demarrer le projet est la page affichagecv.php
+Resume:
+ce projet consiste a generer un cv a partir des donnees que l'utilisateur aurait lui-meme
+fourni lors du remplissage du formulaire: tous les champs etant obligatoire.
+copyrigth by Gilchrist ADAMMADO
